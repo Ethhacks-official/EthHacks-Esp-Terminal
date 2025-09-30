@@ -47,6 +47,9 @@ Note: Change Baud Rate, Flash Size and Firmwares in above command according to y
 * Build-2: It contains support to system, sdcard and BLE commands.
 * Build-3: It contains support to system, sdcard and Classic Bluetooth commands.
 
+## Commands
+
+The [commands.pdf](https://github.com/Ethhacks-official/EthHacks-Esp-Terminal/blob/master/commands/commands.pdf) file contains all commands with their parameters, usage and output response.
 
 ## LICENSE
 
