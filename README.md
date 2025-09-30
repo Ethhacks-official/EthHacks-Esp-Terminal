@@ -54,3 +54,9 @@ The [commands.pdf](https://github.com/Ethhacks-official/EthHacks-Esp-Terminal/bl
 ## LICENSE
 
 This project is licensed under the GNU LESSER GENERAL PUBLIC LICENSE Version 2.1 - see the [LICENSE] file for details.
+
+## Contact info and Links
+
+* siayam@ethhacks.net
+* Website: ethhacks.net
+* Youtube: https://www.youtube.com/@EthHacks-official
