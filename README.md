@@ -21,6 +21,7 @@ Pins currently configured for sdcard module in ESP-Terminal are as follows:
     * SCK  - PIN G18
     * CS   - PIN G5
 
+![screenshot](images/sdcard-interfacing-with-esp32.jpg)
 
 ## Installation and Usage
 
@@ -45,4 +46,5 @@ Note: Change Baud Rate, Flash Size and Firmwares in above command according to y
 * Build-1: It contains support to system, sdcard, wifi and Http/Network commands.
 * Build-2: It contains support to system, sdcard and BLE commands.
 * Build-3: It contains support to system, sdcard and Classic Bluetooth commands.
+
 
