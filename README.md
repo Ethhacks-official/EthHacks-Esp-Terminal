@@ -48,3 +48,6 @@ Note: Change Baud Rate, Flash Size and Firmwares in above command according to y
 * Build-3: It contains support to system, sdcard and Classic Bluetooth commands.
 
 
+## LICENSE
+
+This project is licensed under the GNU LESSER GENERAL PUBLIC LICENSE Version 2.1 - see the [LICENSE] file for details.
