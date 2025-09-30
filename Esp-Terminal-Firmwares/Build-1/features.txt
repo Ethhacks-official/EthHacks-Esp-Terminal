@@ -1,0 +1,7 @@
+Tested On: Esp32 Wroom 32
+
+Functionalities included:
+
+	1. deviceinfo
+	2. Sdcard Functionality with filsystem commands
+	3. Wifi commands
