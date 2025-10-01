@@ -8,7 +8,7 @@ from terminal import TerminalPage  # Import from your terminal.py
 class SerialApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("ESP32 Serial Communication")
+        self.root.title("ESP TERMINAL APP")
         self.serial_port = None
         self.page1 = tk.Frame(root)
         self.page2 = None
